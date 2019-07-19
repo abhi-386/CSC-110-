@@ -1,4 +1,4 @@
-'''This is the progran where we are intoduced to exit(0)
+'''This is the program where we are introduced to exit(0)
     When the compiler comes to exit(0) the program terminates
 '''
 # We need to import exit from the python program
